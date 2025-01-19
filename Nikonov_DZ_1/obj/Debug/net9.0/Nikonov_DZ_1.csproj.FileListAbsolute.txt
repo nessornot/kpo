@@ -1,0 +1,15 @@
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/bin/Debug/net9.0/Nikonov_DZ_1
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/bin/Debug/net9.0/Nikonov_DZ_1.deps.json
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/bin/Debug/net9.0/Nikonov_DZ_1.runtimeconfig.json
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/bin/Debug/net9.0/Nikonov_DZ_1.dll
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/bin/Debug/net9.0/Nikonov_DZ_1.pdb
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/Nikonov_DZ_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/Nikonov_DZ_1.AssemblyInfoInputs.cache
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/Nikonov_DZ_1.AssemblyInfo.cs
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/Nikonov_DZ_1.csproj.CoreCompileInputs.cache
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/Nikonov_DZ_1.sourcelink.json
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/Nikonov_DZ_1.dll
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/refint/Nikonov_DZ_1.dll
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/Nikonov_DZ_1.pdb
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/Nikonov_DZ_1.genruntimeconfig.cache
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/Nikonov_DZ_1/obj/Debug/net9.0/ref/Nikonov_DZ_1.dll

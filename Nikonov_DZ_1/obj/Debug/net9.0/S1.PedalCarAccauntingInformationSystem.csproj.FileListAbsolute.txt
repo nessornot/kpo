@@ -1,0 +1,15 @@
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/bin/Debug/net9.0/S1.PedalCarAccauntingInformationSystem
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/bin/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.deps.json
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/bin/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.runtimeconfig.json
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/bin/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.dll
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/bin/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.pdb
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.AssemblyInfoInputs.cache
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.AssemblyInfo.cs
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.csproj.CoreCompileInputs.cache
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.sourcelink.json
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.dll
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/refint/S1.PedalCarAccauntingInformationSystem.dll
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.pdb
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/S1.PedalCarAccauntingInformationSystem.genruntimeconfig.cache
+/Users/andrejnikonov/Documents/ness/hse_year_2/КПО/сем1/kpo/s1/S1.PedalCarAccauntingInformationSystem/obj/Debug/net9.0/ref/S1.PedalCarAccauntingInformationSystem.dll
